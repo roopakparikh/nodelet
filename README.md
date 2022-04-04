@@ -1,4 +1,6 @@
 ## NODELET
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Froopakparikh%2Fnodelet.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Froopakparikh%2Fnodelet?ref=badge_shield)
+
 
 Nodelet is a Kubernetes lifecycle manager which can be used stand-alone or as part of a larger system (e.g. Cluster API). Nodelet is capable of performing the following tasks:
 - Installing a Kubernetes stack on one or more nodes
@@ -220,3 +222,7 @@ We are actively working on documenting a more streamlined way of generating and 
    systemctl start pf9-nodeletd
    ```
    
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Froopakparikh%2Fnodelet.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Froopakparikh%2Fnodelet?ref=badge_large)
